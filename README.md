@@ -1,1 +1,1 @@
-# Super-Mario-Gamr
+# Super-Mario-Game
